@@ -24,6 +24,6 @@ timm==0.4.12
 torch
 torchvision
 tqdm
-transformers>=4.28.0
+transformers
 webdataset
 wheel
